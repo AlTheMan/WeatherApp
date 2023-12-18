@@ -1,6 +1,6 @@
 A simple android weather application for a school project using Room DB for persistance and Retrofit for API-calls.
 
-Co-author <a href="https://github.com/AlTheMan">Algot von Reybekiel</a> 
+Co-author <a href="https://github.com/emilwennstrom">Emil Wennström</a> 
 
 
 <div>
